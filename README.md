@@ -32,7 +32,7 @@
   [[Paper](https://openreview.net/forum?id=o4uFFg9_TpV)][[Code](https://yossigandelsman.github.io/visual_prompt/)]
 
 
-- **Images Speak in Images: A Generalist Painter for In-Context Visual Learning** CVRP 2023.
+- **Images Speak in Images: A Generalist Painter for In-Context Visual Learning** CVPR 2023.
   
   *Xinlong Wang, Wen Wang, Yue Cao, Chunhua Shen, Tiejun Huang*
 
